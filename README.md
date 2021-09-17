@@ -2,7 +2,7 @@
 
 This is a very basic React Not-todo app, you can add styles & add more functionality.
 
-The app is live : https://nottodo.netlify.app
+The app is live here : https://nottodo.netlify.app
 
 ## Available Scripts
 
