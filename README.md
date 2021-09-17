@@ -2,6 +2,8 @@
 
 This is a very basic React Not-todo app, you can add styles & add more functionality.
 
+The app is live : https://nottodo.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
